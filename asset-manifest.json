@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/ContactApp/static/js/main.a6e345b5.js",
+    "index.html": "/ContactApp/index.html",
+    "main.a6e345b5.js.map": "/ContactApp/static/js/main.a6e345b5.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a6e345b5.js"
+  ]
+}
