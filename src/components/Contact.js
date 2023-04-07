@@ -8,7 +8,7 @@ function Contact(props) {
     <>
       <div className="contacts">
         <img className="img card" src={props.img} alt="Contact" />
-        <p className="name card">{props.fname} {props.lname}</p>
+        <p className="text-[2.3rem] my-0 ml-5 mr-12 card">{props.fname} {props.lname}</p>
         <a href={n} className="num card">{props.num} </a>
         <a href={m} className="mail card"> {props.mail} </a>
         <a href={w} target="_blank" className="web card"> {props.web} </a>
